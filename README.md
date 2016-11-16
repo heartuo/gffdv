@@ -21,4 +21,6 @@ The process of generating a series of frames could be automated by a shell scrip
 
 3. Upload the video file. 
 
+For some example images generated please check [here](https://goo.gl/photos/1ttGRGsy2c7197Xk9). 
+
 ###### This software was developed with support from NCSA through the Students Pushing Innovation (SPIN) program and this material is based upon work supported by the National Science Foundation under Grant No. DMR-1555153.
